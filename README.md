@@ -6,9 +6,13 @@ Dự án này là một mạng xã hội đơn giản với các chức năng c�
 
 ✨ Tính năng chính
 🏠 Trang Home
+
 Xem bài đăng từ người dùng khác và của bản thân.
+
 Xóa bài viết của chính mình.
+
 Bình luận vào bài viết.
+
 ![506369399_2182624132173998_7675037614552340989_n](https://github.com/user-attachments/assets/44962666-d82d-4963-bb14-66dc05711679)
 
 🔍 Trang Search
